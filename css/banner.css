@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Tahoma;
+}
+.banner{
+   margin-left: 250px;
+    display: flex;
+    
+    
+   
+}
+.menu ul li{
+	float: left;
+    margin-top: 40px;
+    margin-left: 10px;
+    
+}
+    
+.videos{
+    margin-left: 600px;
+}
+.texto{
+   font-style: italic;
+    font-size: larger;
+   
+
+}
+nav ul,
+li {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
